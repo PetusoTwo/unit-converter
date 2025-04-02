@@ -36,6 +36,10 @@ python conversor.py
 5. Ingresa el valor a convertir
 6. Haz clic en "Convertir"
 
+## Vista Previa
+![image](https://github.com/user-attachments/assets/6b52a7ac-c8f1-4c77-84af-1da6460eb0ae)
+
+
 ## Estructura del Proyecto
 
 - `conversor.py`: Archivo principal con la lógica del conversor
